@@ -1,5 +1,7 @@
 # Codeforces
 
+I am too a beginner to the sport competitive programming as a 2star coder in codechef, pardon if any lack in efficiency of solutions
+
 This is repository to view the solution of most of the easy codeforces problems.
 
 It is to help the beginners who might want to have a look at the solution if they are stuck with a problem.
